@@ -38,7 +38,7 @@ When the user returns to the website, they will see that the shelter they previo
 
 ![Project SARD's Buddy Finder](./assets/images/project-buddy-finder-history-screenshot.png)
 
-Navigate to [Buddy Finder](https://smakela13.github.io/project-buddy-finder) and view the web page.
+Navigate to [Buddy Finder](https://aranata.github.io/project-bf/) and view the web page.
 
 ## Wireframe
 
